@@ -2,7 +2,7 @@
 
 ## Môn học: CS2205.CH183
 
-### Đề tài: Hiện thực mô hình mạng nơron tích chập dựa trên phần cứng để giải quyết bài toán phân loại món ăn
+### Đề tài: MÔ HÌNH THỊ GIÁC - NGÔN NGỮ LỚN CHO HỆ THỐNG TRẢ LỜI CÂU HỎI TRỰC QUAN TIẾNG VIỆT
 
 ## Giảng viên
 - **PGS.TS Lê Đình Duy**  
